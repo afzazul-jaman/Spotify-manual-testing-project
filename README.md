@@ -12,3 +12,5 @@ This repository contains a **manual testing project** for Spotify.
 
 ## Purpose
 This project demonstrates the manual testing process, from planning and scenario creation to execution and reporting.
+
+<img width="1149" height="858" alt="image" src="https://github.com/user-attachments/assets/48ed737a-54ba-4219-bc85-a879cc96aa9f" />
